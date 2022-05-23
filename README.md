@@ -3,7 +3,6 @@ MLOps Course by DataTalksClub in 2022
 
 This repo contains the notebooks and scripts I created during the MLOps Zoomcamp 2022.
 
-https://nyc-tlc.s3.amazonaws.com/trip+data/green_tripdata_2022-01.parquet
 
 # Virtual environment
 
