@@ -1,0 +1,8 @@
+ipykernel==6.8.0
+pandas==1.4.2
+seaborn==0.11.2
+scikit-learn==1.1.1
+pyarrow==8.0.0
+mlflow==1.26.0
+xgboost==1.6.1
+hyperopt==0.2.7
